@@ -33,9 +33,8 @@
 #define VERY_SMALL		1024	// 2^10
 #define TINY			256 	// 2 ^8
 
-/*
-* Suggestion how to initialize the arrays which must be sorted with test data.
-* 1. Create a array of size HUGE and initialize it with random data.
-* 2. Copy from this array as many elements as needed into the seven target directories
-*     (to make this efficiently, consider to use the function memcpy() of string.h).
-*/
+
+int main(int argc, char const *argv[])
+{
+  clock_t = 
+}
